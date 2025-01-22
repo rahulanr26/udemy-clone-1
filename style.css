@@ -16,8 +16,9 @@ body {
     align-items: center;
 }
 
-.navbar__s1__title{
-    color: #5021C3;
+.navbar__s1 img{
+    width: 70px;
+    
 }
 
 .navbar__s2{
